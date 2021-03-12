@@ -1,0 +1,92 @@
+Collaboration and Sharing
+
+The following guidelines are given in line with FUTA's policy on Academic Integrity:
+
+- Collaboration
+
+We encourage you to help each other with work in this class, but 
+to ensure that everybody has a good individual learning experience there are limits to what you can do. 
+This section describes those limits.
+
+- Test Problems
+Working on Problems are intended to be individual efforts. 
+You are encouraged to discuss approaches with other students but your code and your write-up must be your own.
+
+You may not use materials produced as course work by other students, whether in this term or previous terms, 
+nor may you provide your own work for other students to use in any way.
+
+During take-home or class problems, you will see classmates' solutions to a problem. 
+While it is fine to take inspiration from their approach, do not copy their work.
+
+It is okay to use material from external sources like StackOverflow. 
+Do so only with proper attribution, and only if the problem instruction allows it.
+
+In particular, if the assignment says "implement X", 
+then you must "create your own X", not reuse one from an external source.
+
+
+- Examples
+
+-- Scenario 1
+Hameed and Idogun sit next to each other with their laptops while working on a test problem. They talk in general terms about different approaches to solving the problem. When Hameed discovers a useful class in the Java library, he mentions it to Idogun. When Idogun finds a StackOverflow answer that helps, he sends the URL to Hameed. That's OK.
+
+As they type lines of code, they speak the code aloud to the other person, 
+to make sure both people have the right code. INAPPROPRIATE.
+
+In a tricky part of the problem, Hameed and Idogun look at each other's screens 
+and compare them so that they can get their code right. INAPPROPRIATE.
+
+Hameed and Idogun haven't been working together on the problem so far, but Idogun is now struggling with a nasty bug. 
+Hameed sits next to him, looks at his code, and helps him debug. That's OK.
+
+Hameed opens his own laptop, finds his solution to the problem, and refers to it while he's helping Idogun correct his code. INAPPROPRIATE.
+
+-- Scenario 2
+Champion had three test problems, but he was away for several days, and then got sick. 
+He has already taken two slack days on the deadline and has made almost no progress on the problem. 
+Idogun feels sorry for Champion and wants to help, so he sits down with Champion 
+and talks with him about how to solve the problem while Champion is working on it. 
+Idogun already handed in his own solution, but he doesn't open his own laptop to look at it while he's helping Champion. OK.
+Idogun opens his laptop and reads his own code while he's helping Champion. INAPPROPRIATE.
+Idogun has by now spent a couple hours with Champion, and Champion still needs help,
+but Idogun really needs to get back to his own work. He shares his code with Champion. INAPPROPRIATE.
+
+-- Scenario 3
+Toba and Towo both worked on their test problems separately. 
+They exchange their test cases with each other to check their work. INAPPROPRIATE. 
+Test cases can be part of the component for a test problem, and part of the learning experience of the course. 
+You are copying, if you use somebody else's test cases, even if temporarily.
+
+Note that in the example scenarios marked INAPPROPRIATE above, both students
+are held responsible for the violation of academic honesty.
+
+Copying work, or knowingly making work available for copying, 
+in contravention of this policy is a serious offense that may incur any of the following: reduced grades, 
+failing the course and disciplinary action.
+
+- Group projects
+You should collaborate with your partners on all aspects of group project work, 
+and each of you is expected to contribute a roughly equal share to design and implementation.
+You can also reuse designs, ideas and code from your own earlier work.
+You may also use material from external sources, so long as: 
+(1) the material is available to all students in the class; 
+(2) you give proper attribution ; and 
+(3) the assignment itself allows it. 
+In particular, if the assignment says "implement X", 
+then you must "create your own X", not reuse one from an external source or somebody else.
+Finally, your group may not reuse designs, ideas, or code created by another group, in this semester or previous semesters.
+
+- Public sharing of work
+
+People often want to share their code publicly, e.g., on Github, in order to show off a portfolio of code they've written to potential employers. Building a portfolio is a great idea, but 507 is not a good class to use for it, because the test problems and projects are fixed for the course, not chosen by you. 
+Instead of this, Personal projects, Hackathons, and IAP contests are much better ways to build up your portfolio.
+
+- The policy for public sharing of 507 code on Test Problems is described below:
+
+Copyright for the source code does not allow redistribution of derived works without prior permission. 
+Your solutions are a derived work, so you may not distribute your solutions publicly or privately to another person. 
+This also means you cannot post them on Github, in a public Dropbox folder, or on a public server accessible to others.
+
+Keep in mind that when work on an individual problem set is copied, 
+both the provider and especially the caught consumer of copied materials are violating academic honesty standards,
+as described above and will be ruthlessly dealt with.
