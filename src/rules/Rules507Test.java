@@ -20,15 +20,19 @@ public class Rules507Test {
     @Test
     public void testMayUseCodeIn507() {
 
-        boolean status = false;
+        boolean status;
         // 1.
         status = Rules507.mayUseCodeIn507(false, true,
                 false, false);
         assertFalse("Expected false: un-cited publicly-available code", status);
+        // This to actually confirm the output
+        assertEquals(false, status);
 
         // 2.
         status = Rules507.mayUseCodeIn507(true, false,
                 true, true);
         assertTrue("Expected true: self-written required code", status);
+        // This to actually confirm the output
+        assertEquals(true, status);
     }
 }
